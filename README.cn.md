@@ -12,6 +12,17 @@ Simple stow-like dotfile linker
 x install lnko
 ```
 
+## 代码规模
+
+合计: **1,566** 行代码（覆盖前 5 种语言、共 **10** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Lua | 1,412 | 10 | 310 | 7 |
+| Sh | 116 | 1 | 24 | 1 |
+| Svg | 38 | 8 | 6 | 1 |
+| Markdown | 0 | 99 | 50 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/luanvil/lnko>
@@ -22,18 +33,6 @@ x install lnko
 - **最新版本**: `v0.2.4` (2026-08-11)
 - **最近提交**: 2026-08-11
 - **Release 含资产**: 7 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [checksums.txt](https://github.com/luanvil/lnko/releases/download/v0.2.4/checksums.txt) | 515 B | `other` |
-| [lnko-darwin_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_arm64) | 355.4 KiB | `native/darwin/arm64` |
-| [lnko-darwin_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_x86_64) | 284.0 KiB | `native/darwin/x64` |
-| [lnko-linux_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_arm64) | 363.7 KiB | `native/linux/arm64` |
-| [lnko-linux_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_x86_64) | 363.4 KiB | `native/linux/x64` |
-| [lnko-windows_arm64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_arm64.exe) | 304.5 KiB | `native/win/arm64` |
-| [lnko-windows_x86_64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_x86_64.exe) | 321.5 KiB | `native/win/x64` |
 
 ## 流行度
 
@@ -48,19 +47,23 @@ x install lnko
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 31 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 31 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **1,566** 行代码（覆盖前 5 种语言、共 **10** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Lua | 1,412 | 10 | 310 | 7 |
-| Sh | 116 | 1 | 24 | 1 |
-| Svg | 38 | 8 | 6 | 1 |
-| Markdown | 0 | 99 | 50 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/luanvil/lnko/releases/download/v0.2.4/checksums.txt) | 515 B | `other` |
+| [lnko-darwin_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_arm64) | 355.4 KiB | `native/darwin/arm64` |
+| [lnko-darwin_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_x86_64) | 284.0 KiB | `native/darwin/x64` |
+| [lnko-linux_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_arm64) | 363.7 KiB | `native/linux/arm64` |
+| [lnko-linux_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_x86_64) | 363.4 KiB | `native/linux/x64` |
+| [lnko-windows_arm64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_arm64.exe) | 304.5 KiB | `native/win/arm64` |
+| [lnko-windows_x86_64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_x86_64.exe) | 321.5 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -71,4 +74,4 @@ lnko 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:01:09Z._
