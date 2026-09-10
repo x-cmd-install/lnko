@@ -22,7 +22,18 @@ x install lnko
 - **Latest**: `v0.2.4` (2026-08-11)
 - **Last commit**: 2026-08-11
 - **Assets in release**: 7
-- **Published**: 2026-08-11T11:06:17Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/luanvil/lnko/releases/download/v0.2.4/checksums.txt) | 515 B | `other` |
+| [lnko-darwin_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_arm64) | 355.4 KiB | `native/darwin/arm64` |
+| [lnko-darwin_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_x86_64) | 284.0 KiB | `native/darwin/x64` |
+| [lnko-linux_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_arm64) | 363.7 KiB | `native/linux/arm64` |
+| [lnko-linux_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_x86_64) | 363.4 KiB | `native/linux/x64` |
+| [lnko-windows_arm64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_arm64.exe) | 304.5 KiB | `native/win/arm64` |
+| [lnko-windows_x86_64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_x86_64.exe) | 321.5 KiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +67,8 @@ Total: **1,566** lines of code across **10** files in the top 5 languages.
 Install metadata for lnko lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lnko` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/lnko.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lnko.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:33:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:29:11Z._
