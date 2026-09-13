@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 372168,
       "digest": "sha256:dac4d176667b90adef3de6a773abd5090592b70f3903e5b16d60188a212b86c0",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-linux_x86_64"
