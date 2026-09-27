@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 515,
       "digest": "sha256:8666627042a1b50be1f1630381042afcd06b7f21c38b77b60b8e27b8198c3e15",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 363960,
       "digest": "sha256:7ed6cc2f608b56c61ff16c72833023cba72412e7e5b4b1006865c4deb0205c28",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 290843,
       "digest": "sha256:c14d082bf501c393753f1c8740610b8281e50c1c2d4cff5bb6e462279e80d121",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-darwin_x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 372400,
       "digest": "sha256:49750a21f5af5f1445ff30ef27a71e560f3901cc09f57e1600e51aba96014657",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-linux_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 372168,
       "digest": "sha256:dac4d176667b90adef3de6a773abd5090592b70f3903e5b16d60188a212b86c0",
-      "download_count": 41,
+      "download_count": 46,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-linux_x86_64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 311808,
       "digest": "sha256:8504f3da6258b7b0ea3de541d05c8e75fb579ffedbc2aa2e1d9afe8e17e048ab",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-windows_arm64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 329216,
       "digest": "sha256:e69abcead3364a7fa865cbd16e92edd12c86b05e5a4ce04df644dc1d887c7a15",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-11T11:06:17Z",
       "updated_at": "2026-08-11T11:06:17Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.2.4/lnko-windows_x86_64.exe"
