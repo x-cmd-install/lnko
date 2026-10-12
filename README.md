@@ -46,12 +46,12 @@ Total: **1,566** lines of code across **10** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-13 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-14 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-16 | 31 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-21 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-14 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-17 | 31 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-22 | 31 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for lnko lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:40:29Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:54:11Z._
