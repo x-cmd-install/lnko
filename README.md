@@ -14,14 +14,14 @@ x install lnko
 
 ## Code insight
 
-Total: **1,566** lines of code across **10** files in the top 5 languages.
+Total: **2,149** lines of code across **15** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Lua | 1,412 | 10 | 310 | 7 |
+| Lua | 1,995 | 4 | 345 | 12 |
 | Sh | 116 | 1 | 24 | 1 |
 | Svg | 38 | 8 | 6 | 1 |
-| Markdown | 0 | 99 | 50 | 1 |
+| Markdown | 0 | 124 | 61 | 1 |
 
 ## Source
 
@@ -30,8 +30,8 @@ Total: **1,566** lines of code across **10** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.4` (2026-08-11)
-- **Last commit**: 2026-08-11
+- **Latest**: `v0.6.0` (2026-10-27)
+- **Last commit**: 2026-10-27
 - **Assets in release**: 7
 
 ## Popularity
@@ -40,30 +40,30 @@ Total: **1,566** lines of code across **10** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 109
+- **Releases**: 36 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 31 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 36 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 36 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/luanvil/lnko/releases/download/v0.2.4/checksums.txt) | 515 B | `other` |
-| [lnko-darwin_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_arm64) | 355.4 KiB | `native/darwin/arm64` |
-| [lnko-darwin_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-darwin_x86_64) | 284.0 KiB | `native/darwin/x64` |
-| [lnko-linux_arm64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_arm64) | 363.7 KiB | `native/linux/arm64` |
-| [lnko-linux_x86_64](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-linux_x86_64) | 363.4 KiB | `native/linux/x64` |
-| [lnko-windows_arm64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_arm64.exe) | 304.5 KiB | `native/win/arm64` |
-| [lnko-windows_x86_64.exe](https://github.com/luanvil/lnko/releases/download/v0.2.4/lnko-windows_x86_64.exe) | 321.5 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/luanvil/lnko/releases/download/v0.6.0/checksums.txt) | 515 B | `other` |
+| [lnko-darwin_arm64](https://github.com/luanvil/lnko/releases/download/v0.6.0/lnko-darwin_arm64) | 355.6 KiB | `native/darwin/arm64` |
+| [lnko-darwin_x86_64](https://github.com/luanvil/lnko/releases/download/v0.6.0/lnko-darwin_x86_64) | 292.2 KiB | `native/darwin/x64` |
+| [lnko-linux_arm64](https://github.com/luanvil/lnko/releases/download/v0.6.0/lnko-linux_arm64) | 372.4 KiB | `native/linux/arm64` |
+| [lnko-linux_x86_64](https://github.com/luanvil/lnko/releases/download/v0.6.0/lnko-linux_x86_64) | 372.1 KiB | `native/linux/x64` |
+| [lnko-windows_arm64.exe](https://github.com/luanvil/lnko/releases/download/v0.6.0/lnko-windows_arm64.exe) | 313.0 KiB | `native/win/arm64` |
+| [lnko-windows_x86_64.exe](https://github.com/luanvil/lnko/releases/download/v0.6.0/lnko-windows_x86_64.exe) | 330.0 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for lnko lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:53:55Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:28:12Z._
