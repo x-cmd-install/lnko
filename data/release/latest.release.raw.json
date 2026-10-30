@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 515,
       "digest": "sha256:51ee8088465e18d1a791f3c48c1dc9e7a29cb5cdafdf8a15775e3402f985a762",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T15:04:12Z",
       "updated_at": "2026-10-27T15:04:12Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.6.0/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 381048,
       "digest": "sha256:e5f95579b81ca4be9f8e1a2485da9ef860ec46c55fae158e5ee68b21a4fee9ab",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-27T15:04:12Z",
       "updated_at": "2026-10-27T15:04:12Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.6.0/lnko-linux_x86_64"
