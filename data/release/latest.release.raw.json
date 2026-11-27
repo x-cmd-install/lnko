@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 364184,
       "digest": "sha256:f694094ff17b3e3fbef717b6b3a152c3836e43384ab9a4dd006bb5cb2d5eaad0",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-10-27T15:04:12Z",
       "updated_at": "2026-10-27T15:04:12Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.6.0/lnko-darwin_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 381048,
       "digest": "sha256:e5f95579b81ca4be9f8e1a2485da9ef860ec46c55fae158e5ee68b21a4fee9ab",
-      "download_count": 80,
+      "download_count": 83,
       "created_at": "2026-10-27T15:04:12Z",
       "updated_at": "2026-10-27T15:04:12Z",
       "browser_download_url": "https://github.com/Owloops/lnko/releases/download/v0.6.0/lnko-linux_x86_64"
